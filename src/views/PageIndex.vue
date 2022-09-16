@@ -21,7 +21,7 @@
                 </v-list-item-avatar>
                 <v-list-item-content>
                   <v-list-item-title class="caption font-weight-bold"
-                    >@john_lenon</v-list-item-title
+                    >@Rey_Thomas</v-list-item-title
                   >
                   <v-list-item-subtitle class="caption">{{
                     post.location
